@@ -1,0 +1,77 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/* lvl1_1 */
+.lvl1_1 div{
+    background-color: #ABFFE3;
+    width: 200px;
+    padding: 25px;
+    margin: 25px;
+    border: 25px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* lvl1_2 */
+.lvl1_2 section{
+    width: 400px;
+    border: 1px solid;
+}
+.lvl1_2 div{
+    background-color: #ABFFE3;
+    width: 200px;
+    border: 5px solid;
+    padding: 20px;
+    margin: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* lvl1_3 */
+.lvl1_3 section{
+    width: 400px;
+    background-color: orangered;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid ghostwhite;
+    color: ghostwhite;
+}
+/* lvl2_1 */
+.lvl2_1{
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.lvl2_1 h1{
+    border: 1px dotted violet;
+    border-radius: 20px;
+    text-align: center;
+    padding: 5px 0px;
+}
+.lvl2_1 p{
+    border: 2px solid red;
+    text-align: center;
+    margin: 50px;
+    padding: 30px;
+}
+.lvl2_1 h2{
+    border: 1px solid #D8D0F7;
+    border-radius: 9px;
+    box-shadow: 1px 1px 21px #d8d0f7;
+    text-align: center;
+    padding: 5px 0px;
+}
+.lvl2_1 ol,ul{
+    border: 2px solid orange;
+    margin: 50px;
+    padding: 30px;
+    text-decoration: underline;
+    text-decoration-color: palevioletred;
+}
+.lvl2_1 li{
+    margin: 0px 30px;
+}
+.lvl2_1 h3{
+    border: 10px double #BD85EA;
+    border-radius: 20px;
+    text-align: center;
+    padding: 5px 0px;
+}
